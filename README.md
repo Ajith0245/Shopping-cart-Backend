@@ -1,0 +1,1 @@
+Built a fully functional e-commerce backend using Spring Boot and Spring Security, implementing key features such as user authentication, product and category management, shopping cart operations, and order processing. The project follows a structured development approach, covering CRUD operations,  API testing, and security integration
